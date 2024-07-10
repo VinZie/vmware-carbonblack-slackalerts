@@ -10,7 +10,7 @@ CBC_API_ID = "YOUR_API_ID"  # Replace with your API ID
 CBC_API_SECRET = "YOUR_API_SECRET"  # Replace with your API secret
 CBC_API_KEY = f"{CBC_API_SECRET}/{CBC_API_ID}"  # Construct the API key
 SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/YOUR/SLACK/WEBHOOK"
-SLACK_STARTUP_MESSAGE = "CBC to Slack alerting has been enabled. This channel is now receiving alerts from Kelvin-UbuntuVM."
+SLACK_STARTUP_MESSAGE = "CBC to Slack alerting has been enabled. This channel is now receiving alerts."
 
 # Request body (e.g., for filtering alerts)
 REQUEST_BODY = {
