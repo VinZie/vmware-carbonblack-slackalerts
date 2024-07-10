@@ -6,7 +6,6 @@ This project is a Python script that monitors alerts from Carbon Black Cloud (CB
 - Sends a notification to Slack when the script starts, indicating that alerting has been enabled.
 - Periodically checks for new alerts from CBC.
 - Sends alert details to a specified Slack channel.
-- Allows users to acknowledge alerts, updating the alert status in CBC and notifying the Slack channel.
 
 ## Prerequisites
 - Python 3.x
