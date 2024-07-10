@@ -101,7 +101,3 @@ This project is a Python script that monitors alerts from Carbon Black Cloud (CB
 ## Contributing
 
 Feel free to open issues or submit pull requests if you have any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
